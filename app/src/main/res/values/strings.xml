@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Starter Code 2024</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="recipe_image_content_description">Recipe Image</string>
+    <string name="ingredients_header">Ingredients</string>
+    <string name="instructions_header">Instructions</string>
+    <string name="cuisine_header">Cuisine</string>
+    <string name="favorite_content_description">Favorite</string>
+</resources>

@@ -1,0 +1,31 @@
+## Android Dev
+# built application files
+*.apk
+*.ap_
+app/manifest-merger-release-report.txt
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+##################
+##  Android Studio
+##################
+.idea
+.gradle
+keystore.properties
+app/keystore
+app/debug
+app/release
+*.iml
+*.iws
+*.ipr
+*.swp
+
+local.properties
