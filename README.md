@@ -7,14 +7,14 @@ Use this code to start off any Android project from scratch.
 
 ## Tech stack:
 
-Programming Languages: Kotlin
-Build System: Gradle
-Architecture: Model-View-ViewModel (MVVM)
-UI: Jetpack Compose
-Dependency Injection: Koin
-Networking: Retrofit
-Data Persistence: Room
-Asynchronous Programming: Kotlin Coroutines
+- Programming Languages: Kotlin
+- Build System: Gradle
+- Architecture: Model-View-ViewModel (MVVM)
+- UI: Jetpack Compose
+- Dependency Injection: Koin
+- Networking: Retrofit
+- Data Persistence: Room
+- Asynchronous Programming: Kotlin Coroutines
 
 
 # Notes
